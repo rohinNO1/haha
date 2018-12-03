@@ -3,7 +3,7 @@ package com.haha.git;
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("Hello nihaoya World!");
+		System.out.println("Hello buxingya World!");
 	}
 
 }
